@@ -1,0 +1,19 @@
+[toolchain]
+anchor_version = "0.31.1"
+
+[features]
+resolution = true
+skip-lint = false
+
+[programs.localnet]
+uplong_vault = "LongtNv8Jfv4EBVwRfoU67iaT9vcD2Sk1FF3XYi2zSt"
+
+[programs.devnet]
+uplong_vault = "LongtNv8Jfv4EBVwRfoU67iaT9vcD2Sk1FF3XYi2zSt"
+
+[programs.mainnet]
+uplong_vault = "LongtNv8Jfv4EBVwRfoU67iaT9vcD2Sk1FF3XYi2zSt"
+
+[provider]
+cluster = "localnet"
+wallet = "~/.config/solana/id.json"
