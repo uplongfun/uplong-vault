@@ -3,6 +3,7 @@ name = "uplong-vault"
 version = "0.1.0"
 description = "uplong's on-chain vault: traders' USDC and the $LONG loss-reward pool"
 edition = "2021"
+rust-version = "1.84"
 
 [lib]
 crate-type = ["cdylib", "lib"]
