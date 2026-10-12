@@ -1,4 +1,4 @@
-# uplong-vault
+# upLong
 
 The on-chain vault behind [uplong](https://uplong.fun): it holds traders' USDC and the $LONG reward pool, and pays them out.
 
